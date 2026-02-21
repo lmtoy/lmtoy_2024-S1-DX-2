@@ -18,7 +18,7 @@ on["3i_Atlas"] = \
 # parameters for the first pass of the pipeline (restart=1 is automatically enforced here)
 pars1 = {}
 
-pars1["3i_Atlas"] = ""
+pars1["3i_Atlas"] = "qagrade=3"
 
 # parameters for the (optional) second pass of the pipeline (e.g. for bank=0)
 pars2 = {}
